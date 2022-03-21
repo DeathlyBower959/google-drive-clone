@@ -18,9 +18,10 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "serve": "server ./build -l 3001",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "serve": "server ./build -l 3001",
+    "netlify:env": "netlify env:import .env.production"
   },
   "eslintConfig": {
     "extends": "react-app"
