@@ -1,2 +1,2 @@
 # Google Drive Clone
-[![Netlify Status](https://api.netlify.com/api/v1/badges/d8e24864-2434-4ee6-8135-983941cb428e/deploy-status)](https://app.netlify.com/sites/studis/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/42f88170-83dc-46bb-8093-195fd63543e0/deploy-status)](https://app.netlify.com/sites/deathly-drive/deploys)
